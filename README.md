@@ -1,7 +1,5 @@
 ﻿# Club Website
 
-
-
 ### The goal of this project was to create a site that was responsive to different screensizes using HTML and CSS, we could use either FlexBox or CSS Grid. Design and what kind of club to create was up to me.
 
 #### I was required to include :
@@ -14,7 +12,7 @@
 
 ### I learned:
 
-This was my first time using media queries, and it was pretty satisfying to see how easily they changed the page. This was also my first time using CSS Grid, and I definitely learned why it would be beneficial to name the grid areas (I spent way too long fiddling with placing things exactly in columns and rows).
+This was my first time using media queries, and it was pretty satisfying to see how easily they changed the page. This was also my first time using CSS Grid, and I definitely learned why it would be beneficial to name the grid areas (I spent way too long fiddling with placing things exactly in columns and rows). I've gone back and generally fiddled with the stylings over the last year, and I definitely prefer flexbox...especially towards the end of building the page, I ran into issues with the size of my grid, and that was annoying.
 
 
 ### See page here :https://kmlibin.github.io/Trail-Running-Club/
